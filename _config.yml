@@ -7,10 +7,21 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "A B Shravan Krishna"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "A B Shravan Krishna"
+description              : &description "Hello there! Welcome to my GitHub Profile. I'm an undergraduate student with a keen interest in the fascinating fields of cybersecurity and machine learning. I love exploring the ways in which technology can be leveraged to solve complex problems and improve the security of digital systems.
+
+🔭 Currently, I am working on my pre-final year project, which focuses on developing a traffic congestion control system using vehicle-to-vehicle communication. This project aims to leverage emerging technologies to improve traffic flow and reduce congestion on the roads. I am excited to explore the potential of wireless communication between vehicles and develop intelligent algorithms for traffic optimization.
+
+🌱 I’m currently learning C# and Unity for game devleopment
+
+❓ Ask me about anything related to Linux ,Python, and C .
+Sure!!!!!!! I will help you out
+
+⚡ Fun fact: Did you know that the famous operating system Linux was initially created as a hobby project by Linus Torvalds, a Finnish computer science student? It all started back in 1991 when Linus wanted to create a free and open-source alternative to the Unix operating system. Little did he know that his project would evolve into one of the most influential and widely used operating systems in the world, powering everything from smartphones to supercomputers.
+
+💻Feel free to explore my repositories and projects. If you have any questions or suggestions, I would be delighted to hear from you. Happy coding!"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
